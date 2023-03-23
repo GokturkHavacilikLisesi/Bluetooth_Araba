@@ -1,8 +1,7 @@
 ### Proje Açıklaması
-  Kuzey Göktürk Havacılık Lisesi Öğrencileri Tarafından Geliştirilen Bluetooth Kontrollü Mesafe Sensörşü Araba
+  Kuzey Göktürk Havacılık Lisesi Öğrencileri Tarafından Geliştirilen Bluetooth Kontrollü ve Ultrasonik Sensörlü Araba
   
 ### Proje Gereksinimleri
-
 **Kart:** Arduino Uno veya Nano 
 
 **Motor Sürücü:** L298 Motor Sürücü
